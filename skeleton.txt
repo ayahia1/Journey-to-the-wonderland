@@ -1,0 +1,33 @@
+Skeleton version B, released 8-19-1998.
+---------------------------------------
+This skeleton D-Mod is being offered in the spirit of fair exchange of
+ideas! It should allow you to begin writing a new D-Mod simply by unzipping
+it (maintain folders if in WinZip, or -DO if Pkunzip for DOS).
+
+  >> Edit the title-01.bmp in the GRAPHICS sub-directory to customize
+     your own title screen.
+
+  >> Edit the button bmp's to customize your own buttons.
+
+  >> Edit the START files to customize things like the button
+     positions, Dink's starting room #, and the intro music.
+
+  >> Edit the DMOD.DIZ file and create your own info for front ends.
+
+  >> My "custom" tile set is in tiles/ts39.bmp (ALT-9 in editor). You can
+     delete this file for the original ts39 tile page to be used.
+
+  >> Dink starts in Room #400 (which has been set up on the map). Change
+     this room to whatever you like -- even start him out in a different
+     room by changing &player_map in START.C.
+
+If you need more hints, be sure to check out my web site! I've got a FAQ,
+a developer's forum, and lots more to help ya get started.
+
+Why am I don't this? BECAUSE I DON'T WANT TO BE THE ONLY ONE WRITING TONS
+OF D-MODS!!! <Hehhehhe>
+
+Good luck!
+
+    Mike Snyder (wyndo@cxo.com)
+    http://www.cxo.com/~wyndo/dmods
