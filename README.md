@@ -14,9 +14,7 @@ The following additional features were added
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://github.com/ayahia1/Journey-to-the-wonderland/blob/main/walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 1- The game's final score (~103) exceeded the maximum possible score (100)  
