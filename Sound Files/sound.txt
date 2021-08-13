@@ -1,2 +1,0 @@
-\dink\dmod\sound
-Put new .WAV and .MIDI files in this directory
