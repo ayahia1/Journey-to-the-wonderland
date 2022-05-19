@@ -36,4 +36,5 @@ Here's a walkthrough of implemented user stories:
 
 ## Final words
 * I want to extend my gratitude to Professor Nawal El Boghdady for her guidance and help throughout building the game. I also give special thanks to Adam Salem and Adham Khalid, **my teammates**, for their co-operation and help through the whole competition process. 
+
 * For any feedback, contact me at ayahia1@swarthmore.edu
